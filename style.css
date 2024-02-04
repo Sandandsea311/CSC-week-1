@@ -1,3 +1,4 @@
 body {background-color: #6ed67c;}
 #nav-table {width: 800px;}
-#home-title {outline: 2px red;} 
+#home-title {outline: 5px red;
+            color: #de67da;} 
