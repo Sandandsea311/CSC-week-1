@@ -4,4 +4,4 @@ body {background-color: #6ed67c;}
 #home-title {background-color: #9aeff5;} 
 
 #about-title {color: #e2f76f;}
-#about-body {background-image: url("https://github.com/Sandandsea311/CSC-week-1/blob/main/img/background%20image.jpg?raw=true");}
+#about-body {background-image: url('https://github.com/Sandandsea311/CSC-week-1/blob/main/img/background%20image.jpg?raw=true');}
