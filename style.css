@@ -7,4 +7,4 @@ body {background-color: #6ed67c;}
 #about-body {background-image: url('https://github.com/Sandandsea311/CSC-week-1/blob/main/img/betterbackground.jpg?raw=true');}
 #banner-photo {width: 200px;}
 #banner-photo {height: 300px;}
-#banner-photo
+#banner-photo {object-fit: contain;}
