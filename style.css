@@ -9,5 +9,5 @@ body {background-color: #6ed67c;}
 #banner-photo {height: 300px;}
 #banner-photo {object-fit: contain;}
 #pumpkin-photo {float: right; }
-
+#banner-photo {float: right;}
 #java-title {color: #ffcccc;}
